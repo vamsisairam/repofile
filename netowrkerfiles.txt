@@ -1,0 +1,10 @@
+[nw19_x86_64]
+lgtoclnt:lgtoclnt-19.2.1.1-1.x86_64.rpm
+lgtoxtdclnt:lgtoxtdclnt-19.2.1.1-1.x86_64.rpm
+lgtonmsap:lgtonmsap-19.2.1.1-1.x86_64.rpm
+lgtonmda:lgtonmda-19.2.1.1-1.x86_64.rpm
+
+[nw8_x86_64]
+lgtoclnt:lgtoclnt-8.2.4.14-1.x86_64.rpm
+lgtonmsap:lgtonmsap-8.2.4.0-1.x86_64.rpm
+lgtonmda:lgtonmda-8.2.4.2-1.x86_64.rpm
